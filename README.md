@@ -1,2 +1,2 @@
 # steampowered
-Scraping a site steampowered using bs4
+Scraping a steampowered using bs4
